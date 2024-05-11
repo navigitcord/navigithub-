@@ -8,6 +8,6 @@ Hey Everyone, I'm Navneet Jain ✌️
 -       Linkedin -  [https://www.linkedin.com/in/navneet-jain-/]
 
 <!---
-navigithub7/navigithub7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+navigitcord/navigitcord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
